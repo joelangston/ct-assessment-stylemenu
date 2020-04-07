@@ -66,6 +66,6 @@ footer {text-align: right;}
     Add a CSS ruleset targeting the starters and desserts sections to accomplish the following:
     - draw a 2px black border around the sections
 */
-#starters {border: 2px solid black;}
-#desserts {border: 2px solid black;}
+#starters,#desserts {border: 2px solid black;}
+
 
